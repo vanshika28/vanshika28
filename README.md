@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![]https://github.com/vanshika28/vanshika28/blob/master/Vanshika_CV_design-01.jpg
+![](https://github.com/vanshika28/vanshika28/blob/master/Vanshika_CV_design-01.jpg)
